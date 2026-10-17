@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760" fill="none" stroke="#78563a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<!-- Vispel -->
+<g transform="translate(80 70) rotate(-28)"><rect x="-8" y="80" width="16" height="95" rx="8"/><ellipse cy="30" rx="29" ry="54"/><ellipse cy="30" rx="17" ry="54"/><path d="M0-24v108"/></g>
+<!-- Tainarull -->
+<g transform="translate(700 90) rotate(32)"><rect x="-70" y="-22" width="140" height="44" rx="12"/><rect x="-110" y="-8" width="40" height="16" rx="7"/><rect x="70" y="-8" width="40" height="16" rx="7"/><path d="M-55-12H55"/></g>
+<!-- Kauss ja lusikas -->
+<g transform="translate(745 400) rotate(-12)"><path d="M-65 0Q-55 75 0 75T65 0Z"/><ellipse rx="65" ry="12"/><path d="M10-8l35-85q8-14 15-6t-1 17L23-7"/></g>
+<!-- Mõõtelusikad -->
+<g transform="translate(110 420) rotate(25)"><ellipse cy="-40" rx="23" ry="32"/><rect x="-5" y="-8" width="10" height="85" rx="5"/><ellipse cx="50" cy="-15" rx="17" ry="24"/><path d="M50 9v67q0 10-12 10H5"/></g>
+<!-- Ahjukinnas -->
+<g transform="translate(360 640) rotate(-25)"><path d="M-25 30v-64q0-25 22-25t22 25v20l11-12q12-13 22-2t-1 27L24 35v22h-49Z"/><path d="M-25 35h49M-15-30l27 50m-27-25 20-22"/></g>
+<!-- Küpsisevorm -->
+<g transform="translate(510 180) rotate(15)"><path d="M0-40l12 25 28 4-20 20 5 28L0 24l-25 13 5-28-20-20 28-4Z"/></g>
+<!-- Spaatel -->
+<g transform="translate(630 660) rotate(38)"><rect x="-25" y="-70" width="50" height="65" rx="14"/><path d="M-6-5v85q6 12 12 0V-5M-14-55v33M0-55v33M14-55v33"/></g>
+</svg>
